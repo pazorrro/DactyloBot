@@ -2,7 +2,16 @@
 ## Défiez et épatez vos amis en battant le reccord de dactylographie !
 
 
-### 1 - Installez python et selenium 
+### 1 - Installez python 
+Pour windows : 
+il suffit de le <a href="https://apps.microsoft.com/store/detail/python-39/9P7QFQMJRFP7?hl=fr-fr&gl=FR">télécharger dans microsoft store</a>
+
+pour linux :
+```
+sudo apt-et install python
+```
+
+### 2 - Téléchargez selenium 
 
 
 ### 2 - Téléchargez le bot 
