@@ -37,7 +37,7 @@ git clone https://github.com/pazorrro/DactyloBot
 
 
 ### 4 - Lancez le Bot
-
+Déplacez vous dans le dossier puis dans un cmd ou terminal tapez :
 ```
 python DactyloBot.py
 ```
