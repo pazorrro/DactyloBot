@@ -24,10 +24,17 @@ pip install selenium
 ```
 
 ### 3 - Téléchargez le bot 
+Soit cliquez sur le boutton vert "code" puis téléchargez le zip
+
+Soit par git :
+installez <a href="http://git-scm.com/download/win">git</a>.
+Dans un cmd tapez :
 ```
 git clone https://github.com/pazorrro/DactyloBot
 ```
-(ou cliquer sur le boutton vert "code" puis téléchargez le zip)
+
+
+
 
 ### 4 - Lancez le Bot
 
