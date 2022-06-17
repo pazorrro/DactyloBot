@@ -23,3 +23,10 @@ for i in range(150):
     texte = driver.find_element_by_xpath(url).text
     driver.find_element_by_xpath(".//input[@class='form-control']").send_keys(texte)
     driver.find_element_by_xpath(".//input[@class='form-control']").send_keys(" ")
+
+    
+
+
+    
+    
+#source : https://github.com/pazorrro/DactyloBot
