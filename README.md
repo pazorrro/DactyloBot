@@ -10,7 +10,7 @@ il suffit de le <a href="https://apps.microsoft.com/store/detail/python-39/9P7QF
 <b>pour linux :</b> <br>
 Dans un terminal tapez
 ```
-sudo apt-et install python
+sudo apt-get install python
 ```
 
 ### 2 - Téléchargez selenium 
