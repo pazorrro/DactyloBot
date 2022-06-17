@@ -3,12 +3,12 @@
 
 
 ### 1 - Installez python 
-<u>Pour windows :</u> <br>
+<b>Pour windows :</b> <br>
 
 il suffit de le <a href="https://apps.microsoft.com/store/detail/python-39/9P7QFQMJRFP7?hl=fr-fr&gl=FR">télécharger dans microsoft store</a>
 
 
-<u>pour linux :</u> <br>
+<b>pour linux :</b> <br>
 Dans un terminal tapez
 ```
 sudo apt-et install python
