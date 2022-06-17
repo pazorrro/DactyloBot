@@ -4,7 +4,6 @@
 
 ### 1 - Installez python 
 <b>Pour windows :</b> <br>
-
 il suffit de le <a href="https://apps.microsoft.com/store/detail/python-39/9P7QFQMJRFP7?hl=fr-fr&gl=FR">télécharger dans microsoft store</a>
 
 
@@ -16,6 +15,13 @@ sudo apt-et install python
 
 ### 2 - Téléchargez selenium 
 
+Sur windows ouvrez un cmd (tapez cmd dans la barre de recherche puis valider)<br>
+Sous linux ouvrez un terminal (ctrl+alt+t)<br><br>
+Dans le cmd ou terminal tapez :
+
+```
+pip install selenium
+```
 
 ### 2 - Téléchargez le bot 
 ```
