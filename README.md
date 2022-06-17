@@ -27,7 +27,7 @@ pip install selenium
 Soit cliquez sur le boutton vert "code" puis téléchargez le zip
 
 Soit par git :
-installez <a href="http://git-scm.com/download/win">git</a>.
+<a href="http://git-scm.com/download/win">installez git</a>.
 Dans un cmd tapez :
 ```
 git clone https://github.com/pazorrro/DactyloBot
