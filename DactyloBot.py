@@ -1,4 +1,4 @@
-#import des bibliothèqye
+#import des bibliotheques
 from selenium import webdriver
 import time
 
