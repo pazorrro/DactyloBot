@@ -1,6 +1,8 @@
-#import des bibliotheques
+#import des bibliothèqye
 from selenium import webdriver
 import time
+
+print("\nPressez ctrl+c pour quitter...")
 
 #ouverture du navigateur
 driver = webdriver.Chrome('chromedriver')
@@ -15,18 +17,13 @@ driver.find_element_by_xpath(".//button[@class='CybotCookiebotDialogBodyButton']
 time.sleep(3)
 
 #bat de reccord du monde
-for i in range(150):
-    url1=".//span[@wordnr='"
-    url2=str(i)
-    url3="']"
-    url=url1+url2+url3
-    texte = driver.find_element_by_xpath(url).text
-    driver.find_element_by_xpath(".//input[@class='form-control']").send_keys(texte)
-    driver.find_element_by_xpath(".//input[@class='form-control']").send_keys(" ")
-
-    
-
-
-    
-    
-#source : https://github.com/pazorrro/DactyloBot
+i=0
+while True :
+	url1=".//span[@wordnr='"
+	url2=str(i)
+	url3="']"
+	url=url1+url2+url3
+	texte = driver.find_element_by_xpath(url).text
+	driver.find_element_by_xpath(".//input[@class='form-control']").send_keys(texte)
+	driver.find_element_by_xpath(".//input[@class='form-control']").send_keys(" ")
+	i+=1
